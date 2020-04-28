@@ -1,5 +1,6 @@
 # XCFrameworkConverter
-A bash script which can easily convert an existing compiled **framework** into the new **xcframework** packing standard
+A bash script which can easily convert an existing compiled **framework** into the new **xcframework** packing standard. 
+If you didn't have time to create a script to convert your framework project directly in XCFramework, or simply you don't have access to it, then this script might help :)
 
 **Preconditions** : 
 - MacOS running Xcode 11 or greater
